@@ -49,3 +49,6 @@ do
     esac
 break        
 done
+
+# break loop and begin new iteration: continue
+# break loop: break
